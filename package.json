@@ -1,0 +1,23 @@
+{
+  "name": "blockchainprj",
+  "version": "1.0.0",
+  "description": "Blockchain",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.32",
+    "chai": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.2",
+    "solidity-coverage": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
